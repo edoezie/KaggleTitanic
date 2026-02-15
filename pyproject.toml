@@ -1,0 +1,13 @@
+[project]
+name = "titanic"
+version = "0.1.0"
+description = "Titanic survival prediction using DNN and Random Forest"
+requires-python = ">=3.11"
+dependencies = [
+    "tensorflow>=2.20.0",
+    "pandas>=3.0.0",
+    "numpy>=2.4.2",
+    "matplotlib>=3.10.7",
+    "seaborn>=0.13.2",
+    "scikit-learn>=1.8.0",
+]
